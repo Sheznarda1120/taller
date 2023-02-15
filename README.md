@@ -1,5 +1,4 @@
-# taller
-<h1 style="color:green;"> Ciudad Mitad del Mundo </h1>
+<h1 style="color:red;"> Ciudad Mitad del Mundo </h1>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.howlanders.com%2Fblog%2Fecuador%2Fciudad-mitad-mundo-quito%2F&psig=AOvVaw2cOSlq8GVmZJ2MBdBpd59T&ust=1676586428929000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMicpKbJmP0CFQAAAAAdAAAAABAE.jpg"
      alt="Monumento a la expedición Francesa" width="400" height="453" />
 
